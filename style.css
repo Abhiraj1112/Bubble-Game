@@ -70,3 +70,13 @@ body{
     justify-content: center;
     align-items:center;
 }
+
+@media (max-width:600px){
+    .window{
+        padding:3% 5%;
+        
+    }
+    .main{
+        height:80%;
+    }
+}
